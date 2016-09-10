@@ -1,0 +1,3 @@
+[submodule "attendance-app"]
+	path = attendance-app
+	url = git@github.com:joseglego/attendance-app.git
